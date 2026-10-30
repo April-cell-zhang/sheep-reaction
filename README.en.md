@@ -10,8 +10,10 @@ Run `python -m http.server 8768` in this directory and visit http://localhost:87
 
 Camera processing runs in the browser using bundled model/runtime assets. Application code has no configured recording upload, analytics, account or score backend. Hosting providers still receive ordinary asset requests. The camera close control stops video tracks. Microphone access is not requested.
 
-Unpublished release candidate. MIT is proposed for original code and project-created assets; bundled MediaPipe 0.10.14 and the model retain Apache-2.0. See THIRD_PARTY_NOTICES.md. Gameplay and visual style are unchanged.
+Open-source release. Original code and project-created assets use MIT; bundled MediaPipe 0.10.14 and the model retain Apache-2.0. See THIRD_PARTY_NOTICES.md. Gameplay and visual style are unchanged.
 
 [Animation preview](docs/demo.gif): unscored demo, no camera footage. The received snapshot displays V2.1 candidate although earlier documents call it V2.0. No gameplay files were changed for publication.
 
 [Privacy and security](SECURITY.md) · [Deployment](docs/DEPLOYMENT.md)
+
+Play online: https://April-cell-zhang.github.io/sheep-reaction/

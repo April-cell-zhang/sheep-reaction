@@ -16,7 +16,9 @@
 
 ## 发布状态
 
-本目录为待审发布候选，尚未公开。原创代码和项目自制素材采用 MIT（待发布确认），MediaPipe 运行库和模型保留 Apache-2.0，见 THIRD_PARTY_NOTICES.md。玩法与画风保持原版。
+本项目已开源发布。原创代码和项目自制素材采用 MIT，MediaPipe 运行库和模型保留 Apache-2.0，见 THIRD_PARTY_NOTICES.md。玩法与画风保持原版。
+
+在线试玩：https://April-cell-zhang.github.io/sheep-reaction/
 
 English: [README.en.md](README.en.md)
 
